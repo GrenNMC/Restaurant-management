@@ -1,0 +1,133 @@
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe.config
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.pdb
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.AssemblyReference.cache
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.SuggestedBindingRedirects.cache
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DanhMucForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.LoginForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.MainForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.Properties.Resources.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.GenerateResource.cache
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.exe
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.pdb
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNhanVienForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLySanPhamForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatDonForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyKhachHangForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyLoaiSanPhamForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyBanForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TaoTaiKhoanForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.AdminKeyForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNguoiDungForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatBanForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyHoaDonForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyChiTietDatBanForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.HuongDanSuDungForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TacGiaForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.BangXepHangNhanVienForm.resources
+D:\STUDY\DBMS\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DoanhThuForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe.config
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.pdb
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.dll
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.xml
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.AssemblyReference.cache
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.SuggestedBindingRedirects.cache
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.AdminKeyForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.BangXepHangNhanVienForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DanhMucForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatBanForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatDonForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DoanhThuForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.HuongDanSuDungForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.LoginForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.MainForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.Properties.Resources.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyBanForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyChiTietDatBanForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyHoaDonForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyKhachHangForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyLoaiSanPhamForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNguoiDungForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNhanVienForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLySanPhamForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TacGiaForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TaoTaiKhoanForm.resources
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.GenerateResource.cache
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CopyComplete
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.exe
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.pdb
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe.config
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.pdb
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.dll
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.xml
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csprojAssemblyReference.cache
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.AdminKeyForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.BangXepHangNhanVienForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DanhMucForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatBanForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatDonForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DoanhThuForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.HuongDanSuDungForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.LoginForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.MainForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.Properties.Resources.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyBanForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyChiTietDatBanForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyHoaDonForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyKhachHangForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyLoaiSanPhamForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNguoiDungForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNhanVienForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLySanPhamForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TacGiaForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TaoTaiKhoanForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.GenerateResource.cache
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CopyComplete
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.exe
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.pdb
+D:\STUDY\LapTrinhWin\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DoiMatKhauForm.resources
+D:\nam2\hk2\lt trên win\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DoiMatKhauForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe.config
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.exe
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\bin\Debug\FinalTermProject.pdb
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.dll
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.xml
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.AssemblyReference.cache
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.AdminKeyForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.BangXepHangNhanVienForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DanhMucForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatBanForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DatDonForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DoanhThuForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.DoiMatKhauForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.HuongDanSuDungForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.LoginForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.MainForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.Properties.Resources.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyBanForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyChiTietDatBanForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyHoaDonForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyKhachHangForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyLoaiSanPhamForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNguoiDungForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLyNhanVienForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.QuanLySanPhamForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TacGiaForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.TaoTaiKhoanForm.resources
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.GenerateResource.cache
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.csproj.CopyComplete
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.exe
+C:\Users\bhtca\Downloads\FinalTermProject (2)\FinalTermProject\FinalTermProject\obj\Debug\FinalTermProject.pdb
