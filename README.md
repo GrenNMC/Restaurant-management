@@ -39,6 +39,33 @@ Việc quản lí này sẽ cung cấp cho người quản lí những thông ti
   
   ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/361db191-181a-4dec-b351-08ae34a01619)
   ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/1f452162-8f53-4fd6-b304-0aeb9c1a17dc)
+
+  * Đặt hàng
+
+  ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/b90f2d57-8c76-43b2-9bff-4fbafa22ab48)
+
+  * Đặt bàn
+
+    ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/ee6fda25-04a1-4b00-ab7d-3faac3227330)
+
+    * Quản lý Người dùng
+
+    ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/0b2028b2-60e9-4389-a326-efb9170bd6ce)
+
+    * Quản lý doanh mục
+    ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/296ebe16-ebaf-4b96-a9f7-3c9c8da66e4f)
+
+    ** Nhân viên
+    ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/090e97e9-7c5f-4ea4-b814-a622b3654efd)
+
+    
+
+
+
+
+    
+
+
   
 
 
