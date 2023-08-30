@@ -24,12 +24,19 @@ Việc quản lí này sẽ cung cấp cho người quản lí những thông ti
 ---
 # Giới thiệu giao diện
 * Giao diện mở đầu
+  
 ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/5d977e55-0ed7-4697-9fd2-584bab45d11f)
+
 * Đăng nhập
+  
 ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/f9cd0ca4-6b25-486c-95cc-c89aadc8e5f1)
+
 * Đăng ký
+  
   ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/0325d25a-a24b-41f5-b288-0765a73fe649)
+  
 * Giao diện chính
+  
   ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/361db191-181a-4dec-b351-08ae34a01619)
   ![image](https://github.com/GrenNMC/Restaurant-management/assets/84801507/1f452162-8f53-4fd6-b304-0aeb9c1a17dc)
   
